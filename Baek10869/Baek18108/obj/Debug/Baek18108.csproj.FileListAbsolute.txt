@@ -1,0 +1,6 @@
+C:\_Workspace\_Algorithm\Baek10869\Baek18108\bin\Debug\Baek18108.exe.config
+C:\_Workspace\_Algorithm\Baek10869\Baek18108\bin\Debug\Baek18108.exe
+C:\_Workspace\_Algorithm\Baek10869\Baek18108\bin\Debug\Baek18108.pdb
+C:\_Workspace\_Algorithm\Baek10869\Baek18108\obj\Debug\Baek18108.csproj.CoreCompileInputs.cache
+C:\_Workspace\_Algorithm\Baek10869\Baek18108\obj\Debug\Baek18108.exe
+C:\_Workspace\_Algorithm\Baek10869\Baek18108\obj\Debug\Baek18108.pdb
