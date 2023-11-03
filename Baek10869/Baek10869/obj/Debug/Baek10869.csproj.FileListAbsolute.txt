@@ -1,0 +1,7 @@
+C:\_Workspace\_Algorithm\Baek10869\Baek10869\bin\Debug\Baek10869.exe.config
+C:\_Workspace\_Algorithm\Baek10869\Baek10869\bin\Debug\Baek10869.exe
+C:\_Workspace\_Algorithm\Baek10869\Baek10869\bin\Debug\Baek10869.pdb
+C:\_Workspace\_Algorithm\Baek10869\Baek10869\obj\Debug\Baek10869.csproj.AssemblyReference.cache
+C:\_Workspace\_Algorithm\Baek10869\Baek10869\obj\Debug\Baek10869.csproj.CoreCompileInputs.cache
+C:\_Workspace\_Algorithm\Baek10869\Baek10869\obj\Debug\Baek10869.exe
+C:\_Workspace\_Algorithm\Baek10869\Baek10869\obj\Debug\Baek10869.pdb
