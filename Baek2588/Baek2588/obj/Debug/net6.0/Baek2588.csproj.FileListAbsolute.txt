@@ -1,0 +1,14 @@
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\bin\Debug\net6.0\Baek2588.exe
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\bin\Debug\net6.0\Baek2588.deps.json
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\bin\Debug\net6.0\Baek2588.runtimeconfig.json
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\bin\Debug\net6.0\Baek2588.dll
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\bin\Debug\net6.0\Baek2588.pdb
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\Baek2588.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\Baek2588.AssemblyInfoInputs.cache
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\Baek2588.AssemblyInfo.cs
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\Baek2588.csproj.CoreCompileInputs.cache
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\Baek2588.dll
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\refint\Baek2588.dll
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\Baek2588.pdb
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\Baek2588.genruntimeconfig.cache
+C:\_Workspace\_Algorithm\Baek2588\Baek2588\obj\Debug\net6.0\ref\Baek2588.dll
