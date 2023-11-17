@@ -1,0 +1,14 @@
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\bin\Debug\net6.0\CodeKata6.exe
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\bin\Debug\net6.0\CodeKata6.deps.json
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\bin\Debug\net6.0\CodeKata6.runtimeconfig.json
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\bin\Debug\net6.0\CodeKata6.dll
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\bin\Debug\net6.0\CodeKata6.pdb
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\CodeKata6.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\CodeKata6.AssemblyInfoInputs.cache
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\CodeKata6.AssemblyInfo.cs
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\CodeKata6.csproj.CoreCompileInputs.cache
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\CodeKata6.dll
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\refint\CodeKata6.dll
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\CodeKata6.pdb
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\CodeKata6.genruntimeconfig.cache
+C:\_Workspace\_Algorithm\Codekata1\CodeKata6\obj\Debug\net6.0\ref\CodeKata6.dll

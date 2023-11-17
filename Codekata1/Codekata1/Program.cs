@@ -1,4 +1,6 @@
-﻿namespace Codekata1
+﻿using System;
+
+namespace Codekata1
 {
     internal class Program
     {

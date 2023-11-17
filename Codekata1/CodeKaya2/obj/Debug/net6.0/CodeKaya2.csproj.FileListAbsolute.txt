@@ -1,0 +1,14 @@
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\bin\Debug\net6.0\CodeKaya2.exe
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\bin\Debug\net6.0\CodeKaya2.deps.json
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\bin\Debug\net6.0\CodeKaya2.runtimeconfig.json
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\bin\Debug\net6.0\CodeKaya2.dll
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\bin\Debug\net6.0\CodeKaya2.pdb
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\CodeKaya2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\CodeKaya2.AssemblyInfoInputs.cache
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\CodeKaya2.AssemblyInfo.cs
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\CodeKaya2.csproj.CoreCompileInputs.cache
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\CodeKaya2.dll
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\refint\CodeKaya2.dll
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\CodeKaya2.pdb
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\CodeKaya2.genruntimeconfig.cache
+C:\_Workspace\_Algorithm\Codekata1\CodeKaya2\obj\Debug\net6.0\ref\CodeKaya2.dll

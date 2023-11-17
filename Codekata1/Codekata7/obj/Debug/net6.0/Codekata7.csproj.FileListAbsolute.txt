@@ -1,0 +1,14 @@
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\bin\Debug\net6.0\Codekata7.exe
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\bin\Debug\net6.0\Codekata7.deps.json
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\bin\Debug\net6.0\Codekata7.runtimeconfig.json
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\bin\Debug\net6.0\Codekata7.dll
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\bin\Debug\net6.0\Codekata7.pdb
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\Codekata7.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\Codekata7.AssemblyInfoInputs.cache
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\Codekata7.AssemblyInfo.cs
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\Codekata7.csproj.CoreCompileInputs.cache
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\Codekata7.dll
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\refint\Codekata7.dll
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\Codekata7.pdb
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\Codekata7.genruntimeconfig.cache
+C:\_Workspace\_Algorithm\Codekata1\Codekata7\obj\Debug\net6.0\ref\Codekata7.dll
