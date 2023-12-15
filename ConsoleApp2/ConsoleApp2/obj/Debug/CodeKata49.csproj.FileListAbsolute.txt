@@ -1,0 +1,7 @@
+C:\_JunHyeong\_Unity\_Algorithm\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\_JunHyeong\_Unity\_Algorithm\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\_JunHyeong\_Unity\_Algorithm\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\_JunHyeong\_Unity\_Algorithm\ConsoleApp2\ConsoleApp2\obj\Debug\CodeKata49.csproj.AssemblyReference.cache
+C:\_JunHyeong\_Unity\_Algorithm\ConsoleApp2\ConsoleApp2\obj\Debug\CodeKata49.csproj.CoreCompileInputs.cache
+C:\_JunHyeong\_Unity\_Algorithm\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\_JunHyeong\_Unity\_Algorithm\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
