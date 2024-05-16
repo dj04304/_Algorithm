@@ -6,18 +6,14 @@ class Program
     static void Main()
     {
         string input = Console.ReadLine();
-        Console.WriteLine(CalculateBracketValue(input));
-    }
 
-    static int CalculateBracketValue(string s)
-    {
         Stack<char> stack = new Stack<char>();
         int result = 0;
         int temp = 1;
 
-        for (int i = 0; i < s.Length; i++)
+        for (int i = 0; i < input.Length; i++)
         {
-            char ch = s[i];
+            char ch = input[i];
 
             if (ch == '(')
             {
@@ -33,9 +29,10 @@ class Program
             {
                 if (stack.Count == 0 || stack.Peek() != '(')
                 {
-                    return 0;
+                    result = 0;
+                    break;
                 }
-                if (s[i - 1] == '(')
+                if (input[i - 1] == '(')
                 {
                     result += temp;
                 }
@@ -46,9 +43,10 @@ class Program
             {
                 if (stack.Count == 0 || stack.Peek() != '[')
                 {
-                    return 0;
+                    result = 0;
+                    break;
                 }
-                if (s[i - 1] == '[')
+                if (input[i - 1] == '[')
                 {
                     result += temp;
                 }
@@ -59,9 +57,11 @@ class Program
 
         if (stack.Count != 0)
         {
-            return 0;
+            result = 0;
         }
 
-        return result;
+
+        Console.WriteLine(result);
     }
+
 }
