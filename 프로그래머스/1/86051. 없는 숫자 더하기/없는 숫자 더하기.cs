@@ -1,25 +1,19 @@
 using System;
 
-        public class Solution
-        {
-            public int solution(int[] numbers)
-            {
-                int answer = 0;
-                int sum = 0;
-                int temps = 0;
+public class Solution {
+    public int solution(int[] numbers)
+{
+    int answer = 0;
 
-                for(int i = 0; i < 10; i++)
-                {
-                    sum += i;
-                }
+    int total = 45;
 
-                for(int i = 0; i < numbers.Length; i++)
-                {
-                    temps += numbers[i];
-                }
+    for(int i = 0; i < numbers.Length; i++)
+    {
+        answer += numbers[i];
+    }
+    
+    answer = total - answer;
 
-                answer = sum - temps;
-
-                return answer;
-            }
-        }
+    return answer;
+}
+}
