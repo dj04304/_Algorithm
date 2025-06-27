@@ -1,16 +1,8 @@
 using System;
-public class Solution
-        {
-            public string solution(string s)
-            {
-                string answer = "";
-                char[] Arr = s.ToCharArray();
+using System.Linq;
 
-                Array.Sort(Arr);
-                Array.Reverse(Arr);
-
-                answer = new string(Arr);
-
-                return answer;
-            }
-        }
+public class Solution {
+    public string solution(string s) {
+        return new string(s.OrderByDescending(c => c).ToArray());
+    }
+}
