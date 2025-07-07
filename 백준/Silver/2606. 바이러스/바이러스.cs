@@ -1,49 +1,72 @@
 using System;
-using System.Runtime.Intrinsics.Arm;
-using System.Text;
+using System.Collections.Generic;
 
-class Program
+class Solution
 {
-    static int n = int.Parse(Console.ReadLine());
-    static int pair = int.Parse(Console.ReadLine());
-    static List<int>[] dfs = new List<int>[n + 1];
-    static bool[] isVisited = new bool[n + 1];
+    static List<int>[] graph;
+    static bool[] visited;
 
-    static int count = 0;
-
-    static void Main(string[] args)
+    static void Main()
     {
-        for (int i = 1; i <= n; i++)
+        int computer = int.Parse(Console.ReadLine());
+        int connect = int.Parse(Console.ReadLine());
+
+        //DFS
+        graph = new List<int>[computer + 1];
+        visited = new bool[computer + 1];
+
+        int[,] edges = new int[connect, 2];
+
+        for (int i = 0; i < connect; i++)
         {
-            dfs[i] = new List<int>();
+            string[] input = Console.ReadLine().Split(' ');
+            int a = int.Parse(input[0]);
+            int b = int.Parse(input[1]);
+            edges[i, 0] = a;
+            edges[i, 1] = b;
+
         }
 
-        for (int i = 0; i < pair; i++)
-        {
-            string[] inputs = Console.ReadLine().Split(' ');
-            int a = int.Parse(inputs[0]);
-            int b = int.Parse(inputs[1]);
-            dfs[a].Add(b);
-            dfs[b].Add(a);
+        for (int i = 0; i <= computer; i++)
+            graph[i] = new List<int>();
 
+        for (int i = 0; i < edges.GetLength(0); i++)
+        {
+            int a= edges[i, 0];
+            int b = edges[i, 1];
+
+            graph[a].Add(b);
+            graph[b].Add(a);
         }
 
         DFS(1);
-        Console.WriteLine(count - 1);
-    }
 
-    public static void DFS(int now)
-    {
-        isVisited[now] = true;
-        count++;
+        int answer = 0;
 
-        foreach (int next in dfs[now])
+        foreach(bool isInfected in visited)
         {
-            if (isVisited[next])
-                continue;
-
-            DFS(next);
+            if(isInfected)
+                answer++;
         }
+
+        Console.WriteLine(answer - 1);
+
+
     }
+
+    static void DFS(int node)
+    {
+        visited[node] = true;
+        foreach (int next in graph[node])
+        {
+            if (!visited[next])
+                DFS(next);
+        }
+
+
+    }
+
 
 }
+
+
